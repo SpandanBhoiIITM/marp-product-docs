@@ -1,4 +1,26 @@
 ---
+
+<!-- _class: hero-bg -->
+<!-- _backgroundColor: false -->
+
+# 🚀 Future of Data Analytics
+
+<div style="background: rgba(0,0,0,0.7); padding: 30px; border-radius: 15px; margin: 20px 0;">
+
+## Revolutionary Platform Features
+
+- **AI-Powered Insights**: Machine learning at scale
+- **Real-time Processing**: Sub-second analytics
+- **Global Infrastructure**: 99.99% uptime guarantee
+- **Enterprise Security**: SOC2 Type II certified
+
+</div>
+
+<div class="center" style="background: rgba(255,215,0,0.9); color: black; padding: 15px; border-radius: 10px; margin-top: 30px;">
+<strong>Experience the next generation of data analytics</strong>
+</div>
+
+---
 marp: true
 theme: custom-tech
 paginate: true
@@ -21,10 +43,19 @@ style: |
   }
   
   section.overview {
-    background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), 
-                url('https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+    background-image: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), 
+                      url('https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  section.hero-bg {
+    background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
   
   section.technical {
