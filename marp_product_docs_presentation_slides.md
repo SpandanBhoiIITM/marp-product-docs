@@ -1,110 +1,89 @@
 ---
-
-<!-- _class: hero-bg -->
-<!-- _backgroundColor: false -->
-
-# 🚀 Future of Data Analytics
-
-<div style="background: rgba(0,0,0,0.7); padding: 30px; border-radius: 15px; margin: 20px 0;">
-
-## Revolutionary Platform Features
-
-- **AI-Powered Insights**: Machine learning at scale
-- **Real-time Processing**: Sub-second analytics
-- **Global Infrastructure**: 99.99% uptime guarantee
-- **Enterprise Security**: SOC2 Type II certified
-
-</div>
-
-<div class="center" style="background: rgba(255,215,0,0.9); color: black; padding: 15px; border-radius: 10px; margin-top: 30px;">
-<strong>Experience the next generation of data analytics</strong>
-</div>
-
----
 marp: true
-theme: custom-tech
+theme: default
 paginate: true
 header: "Product Documentation | DataFlow Analytics Platform"
 footer: "Contact: 23f3002227@ds.study.iitm.ac.in"
 math: katex
-style: |
-  @theme custom-tech;
-  
-  section {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  
-  section.title {
-    background: linear-gradient(45deg, #1e3c72, #2a5298);
-    text-align: center;
-    justify-content: center;
-  }
-  
-  section.overview {
-    background-image: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), 
-                      url('https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-  
-  section.hero-bg {
-    background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-  }
-  
-  section.technical {
-    background: #2c3e50;
-  }
-  
-  h1 {
-    color: #ffd700;
-    font-size: 2.5em;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-    margin-bottom: 0.5em;
-  }
-  
-  h2 {
-    color: #87ceeb;
-    font-size: 1.8em;
-    border-bottom: 2px solid #87ceeb;
-    padding-bottom: 10px;
-  }
-  
-  h3 {
-    color: #98fb98;
-  }
-  
-  code {
-    background: rgba(255,255,255,0.1);
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-family: 'Courier New', monospace;
-  }
-  
-  .highlight {
-    background: rgba(255, 215, 0, 0.2);
-    padding: 20px;
-    border-left: 4px solid #ffd700;
-    border-radius: 5px;
-  }
-  
-  .feature-box {
-    background: rgba(255,255,255,0.1);
-    padding: 15px;
-    border-radius: 10px;
-    margin: 10px 0;
-    backdrop-filter: blur(5px);
-  }
-  
-  .center {
-    text-align: center;
-  }
+---
+
+<style>
+section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section.title {
+  background: linear-gradient(45deg, #1e3c72, #2a5298);
+  text-align: center;
+  justify-content: center;
+}
+
+section.overview {
+  background-image: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), 
+                    url('https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+section.hero-bg {
+  background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+section.technical {
+  background: #2c3e50;
+}
+
+h1 {
+  color: #ffd700;
+  font-size: 2.5em;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  color: #87ceeb;
+  font-size: 1.8em;
+  border-bottom: 2px solid #87ceeb;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #98fb98;
+}
+
+code {
+  background: rgba(255,255,255,0.1);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+}
+
+.highlight {
+  background: rgba(255, 215, 0, 0.2);
+  padding: 20px;
+  border-left: 4px solid #ffd700;
+  border-radius: 5px;
+}
+
+.feature-box {
+  background: rgba(255,255,255,0.1);
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px 0;
+  backdrop-filter: blur(5px);
+}
+
+.center {
+  text-align: center;
+}
+</style>
 
 ---
 
@@ -138,6 +117,27 @@ style: |
 
 <div class="highlight">
 💡 **Key Benefit**: Reduce data processing time by up to 85% compared to traditional ETL pipelines
+</div>
+
+---
+
+<!-- _class: hero-bg -->
+
+# 🚀 Future of Data Analytics
+
+<div style="background: rgba(0,0,0,0.7); padding: 30px; border-radius: 15px; margin: 20px 0;">
+
+## Revolutionary Platform Features
+
+- **AI-Powered Insights**: Machine learning at scale
+- **Real-time Processing**: Sub-second analytics
+- **Global Infrastructure**: 99.99% uptime guarantee
+- **Enterprise Security**: SOC2 Type II certified
+
+</div>
+
+<div class="center" style="background: rgba(255,215,0,0.9); color: black; padding: 15px; border-radius: 10px; margin-top: 30px;">
+<strong>Experience the next generation of data analytics</strong>
 </div>
 
 ---
