@@ -24,8 +24,8 @@
 marp: true
 theme: default
 paginate: true
-header: "Product Documentation | DataFlow Analytics Platform"
-footer: "Contact: 23f3002227@ds.study.iitm.ac.in"
+header: Product Documentation DataFlow Analytics Platform
+footer: Contact 23f3002227@ds.study.iitm.ac.in
 math: katex
 ---
 
