@@ -90,9 +90,10 @@ code, pre code {
 
 ---
 
-<!-- backgroundImage: assets/bg-architecture.jpg -->
+<!-- backgroundImage: https://raw.githubusercontent.com/SpandanBhoiIITM/marp-product-docs/main/assets/bg-architecture.jpg -->
 <!-- backgroundSize: cover -->
 <!-- backgroundPosition: center -->
+
 
 # System Architecture (Overview)
 
