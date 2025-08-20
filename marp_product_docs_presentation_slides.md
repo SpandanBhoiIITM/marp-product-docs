@@ -90,9 +90,10 @@ code, pre code {
 
 ---
 
-<!-- _backgroundImage: url("https://raw.githubusercontent.com/SpandanBhoiIITM/marp-product-docs/main/assets/bg-architecture.jpg") -->
+<!-- _backgroundImage: assets/bg-architecture.jpg -->
 <!-- _backgroundSize: cover -->
 <!-- _backgroundPosition: center -->
+
 
 
 
