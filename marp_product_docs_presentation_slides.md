@@ -1,4 +1,26 @@
 ---
+
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') -->
+
+# 📊 Data Visualization & Analytics
+
+<div style="background: rgba(0,0,0,0.8); padding: 25px; border-radius: 10px; color: white;">
+
+## Advanced Analytics Capabilities
+
+- **Interactive Dashboards**: Real-time data visualization
+- **Predictive Analytics**: ML-powered forecasting
+- **Custom Reports**: Automated report generation
+- **Data Export**: Multiple format support (CSV, JSON, PDF)
+
+### Performance Metrics
+- **Query Speed**: Sub-second response times
+- **Data Volume**: Petabyte-scale processing
+- **Concurrent Users**: 10,000+ simultaneous connections
+
+</div>
+
+---
 marp: true
 theme: default
 paginate: true
@@ -100,6 +122,7 @@ code {
 
 ---
 
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') -->
 <!-- _class: overview -->
 
 # Platform Overview
@@ -121,6 +144,7 @@ code {
 
 ---
 
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') -->
 <!-- _class: hero-bg -->
 
 # 🚀 Future of Data Analytics
